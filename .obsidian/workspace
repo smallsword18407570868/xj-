@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4+1视图模型.md",
+            "file": "商业智能系统.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "实时操作系统",
+                "query": "olap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4+1视图模型.md",
+                "file": "商业智能系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "32e1592c986da8e7",
   "lastOpenFiles": [
-    "4+1视图模型.md",
-    "链接/页式存储、段式存储和段页式存储CSDN搬运.md",
+    "商业智能系统.md",
+    "数据仓库.md",
+    "电子商务系统.md",
+    "电子政务系统.md",
+    "测试.md",
+    "系统应用集成EAI.md",
     "页式存储、段式存储和段页式存储.md",
-    "架构风格.md",
-    "混成系统.md",
-    "构件组装计技术.md",
-    "软件系统的构件.md",
-    "构件分类方法.md",
-    "软件生命周期.md",
-    "软件结构化设计.md"
+    "知识产权法.md",
+    "质量属性以及相应涉及策略.md",
+    "redis持久化RDB和AOF.md"
   ]
 }

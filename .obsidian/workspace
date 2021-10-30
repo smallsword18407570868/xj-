@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "913459c496e7bcea",
+    "type": "split",
+    "children": [
+      {
+        "id": "32e1592c986da8e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "4+1视图模型.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b21dbc58883fbd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "214760081dd05005",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef652686c75e9905",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "58eb168e18487be3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "实时操作系统",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207
+  },
+  "right": {
+    "id": "a5ba699f4c032d26",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3f71465ba459b82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4805244ce1bd22ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4+1视图模型.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16c3daa9df52f96c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "32e1592c986da8e7",
+  "lastOpenFiles": [
+    "4+1视图模型.md",
+    "链接/页式存储、段式存储和段页式存储CSDN搬运.md",
+    "页式存储、段式存储和段页式存储.md",
+    "架构风格.md",
+    "混成系统.md",
+    "构件组装计技术.md",
+    "软件系统的构件.md",
+    "构件分类方法.md",
+    "软件生命周期.md",
+    "软件结构化设计.md"
+  ]
+}
